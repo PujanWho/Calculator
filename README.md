@@ -1,5 +1,6 @@
 # Calculator
 Basic Calculator App
+Time Started Programming GMT+5:45 - 13:56 30/07/2024
 
 ##
 First project post University
