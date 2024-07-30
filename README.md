@@ -8,7 +8,8 @@ Step 1. Basic calculator accepting 2 numbers. function addition, subtraction, mu
 Time Started Programming GMT+5:45 - 13:56 30/07/2024<br />
 Time finished programming GMT+5:45 - 14:08 30/07/2024<br />
 
-Step 2. Basic GUi
-TBC
-Step 3. Accepting Multiple Numbers
-TBC
+Step 2. Basic GUi<br />
+TBC<br />
+
+Step 3. Accepting Multiple Numbers<br />
+TBC<br />
